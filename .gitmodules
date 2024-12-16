@@ -1,0 +1,15 @@
+[submodule "ao"]
+	path = ao
+	url = https://github.com/jinjungyu/ao.git
+[submodule "GPTQ_kernels"]
+	path = GPTQ_kernels
+	url = https://github.com/jinjungyu/GPTQ_kernels.git
+[submodule "hqq"]
+	path = hqq
+	url = https://github.com/jinjungyu/hqq.git
+[submodule "GPTQModel"]
+	path = GPTQModel
+	url = https://github.com/jinjungyu/GPTQModel.git
+[submodule "nsgaquant"]
+	path = nsgaquant
+	url = https://github.com/dlwns147/nsgaquant.git
